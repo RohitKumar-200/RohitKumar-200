@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">Competitive Programmer | Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitKumar-200&label=Profile%20views&color=0e75b6&style=flat" alt="RohitKumar-200" /> </p>
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Rohit Kumar, a second year student pursuing Bachelor of Technology in Indian Institute of Information Technology, Lucknow, India. You can find me on <a href="www.linkedin.com/in/RohitKumar-200"><img src="https://rohitkumar-200.github.io/Images/github-profile/linkedin.svg" height="15px" style="; margin-left: 3px" /></a> or on <a href="https://twitter.com/RohitKumar_200"><img src="https://rohitkumar-200.github.io/Images/github-profile/twitter.svg" height="15px" style="; margin-left: 3px" /></a>.
