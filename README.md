@@ -24,6 +24,7 @@ I'm Rohit Kumar, a second year student pursuing Bachelor of Technology in Indian
 <img src="https://rohitkumar-200.github.io/Images/github-profile/mongodb.svg" alt="mongoDB" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/express.svg" alt="express" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/reactjs.svg" alt="react-js" width="30" height="30"/>
+<img src="https://rohitkumar-200.github.io/Images/github-profile/reactnative.svg" alt="react-native" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/nodejs.svg" alt="node-js" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/mysql.svg" alt="mysql" width="30" height="30"/>
 <img src="https://rohitkumar-200.github.io/Images/github-profile/postman.svg" alt="postman" width="30" height="30"/>
