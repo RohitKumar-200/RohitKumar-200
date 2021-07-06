@@ -11,7 +11,7 @@ I'm Rohit Kumar, a second year student pursuing Bachelor of Technology in Indian
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 Mail me at **rk57382@gmail.com**
+- 📫 Mail me at **rohitworks200@gmail.com**
 
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
