@@ -13,8 +13,6 @@ I'm Rohit Kumar, a second year student pursuing Bachelor of Technology in Indian
 
 - 📫 Mail me at **rohitworks200@gmail.com**
 
-- 🔗 Portfolio https://rohit-kumar.me/
-
 ## Languages and Tools:
 <p align="left" style="letter-spacing: 6px">
 <img src="https://rohitkumar-200.github.io/Images/github-profile/c.svg" alt="c" width="30" height="30"/>
